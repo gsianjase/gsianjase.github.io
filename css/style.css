@@ -1,0 +1,17 @@
+.card {
+border: 1px solid #3bf94e;
+border-radius: 4px;
+padding: 5px;
+box-shadow: 10px 10px 5px #ccb;
+margin-bottom: 10px;	
+}
+
+.profile-pic {max-width: 100%;
+}
+
+.pgcolour1 {background-color: #ccc;
+}
+
+.pgcolour2 {background-color: #f7c12c;
+}
+
